@@ -34,7 +34,7 @@ body {
   border: 2px solild black;
   width: 100%;
   position: relative;
-  background: url(/images/illustration-hero.svg);
+  background: url(/order-summary-component-main/images/illustration-hero.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
