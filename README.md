@@ -11,7 +11,7 @@ Users should be able to:
 ### Screenshot
 
 ![Active State](./screenshots/active-state.png)
-![Mobile View](./screenshots/mobile-view.png.png)
+![Mobile View](./screenshots/mobile-view.png)
 ![Desktop View](./screenshots/desktop-view.png)
 
 ### Links
